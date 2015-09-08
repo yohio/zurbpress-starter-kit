@@ -1,0 +1,4 @@
+cron.bat
+node_modules/
+wp-config.php
+.htaccess
